@@ -1,0 +1,1 @@
+-- To sort records in ascending order==> ORDER BY <field name>ASC - DSC==>ORDER BY <field name> DESC
